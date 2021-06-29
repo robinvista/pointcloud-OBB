@@ -1,2 +1,2 @@
 # pointcloud-OBB
-calculate orientated bounding box based on point cloud
+calculate Oriented Bounding Box from point cloud
